@@ -20,12 +20,14 @@ public class TeamviewerTest1 {
         int b = 4;
         
         int divide = a/b;
+        int multiply = a*b;
         int add = a + b;
         int sub = a - b;
         
         System.out.println("Adding:::: " + add);
         System.out.println("Subtracting:::" + sub);
         System.out.println("Dividing:::" + divide);
+        System.out.println("Multiplying:::"+ multiply);
         
         
         
