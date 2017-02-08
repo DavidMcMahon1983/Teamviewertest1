@@ -23,11 +23,13 @@ public class TeamviewerTest1 {
         int multiply = a*b;
         int add = a + b;
         int sub = a - b;
+        int addTen = 10;
         
         System.out.println("Adding:::: " + add);
         System.out.println("Subtracting:::" + sub);
         System.out.println("Dividing:::" + divide);
         System.out.println("Multiplying:::"+ multiply);
+        System.out.println("AddTen to your Answer::" + addTen);
         
         
         
