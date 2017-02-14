@@ -25,6 +25,7 @@ public class TeamviewerTest1 {
         int sub = a - b;
         int addTen = 10;
         int subTen = 10;
+        int multiTen = 10;
         
         System.out.println("Adding:::: " + add);
         System.out.println("Subtracting:::" + sub);
@@ -32,7 +33,7 @@ public class TeamviewerTest1 {
         System.out.println("Multiplying:::"+ multiply);
         System.out.println("AddTen to your Answer::" + addTen);
         System.out.println("SubTen to your Answer::" + subTen);
-        
+        System.out.println("MultiTen to your answer::" + multiTen);
         
         
         
